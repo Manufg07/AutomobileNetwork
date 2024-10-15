@@ -24,6 +24,14 @@ The network consists of the following **four organizations**:
 3. **🏦 Banks/Financial Institutions**: Banks that facilitate the financial exchange or conversion of Air Miles into monetary value.
 4. **🧑‍💼 Customers**: Individuals who accumulate, transfer, and redeem Air Miles.
 
+## 🚀 Getting Started
+Follow these steps to deploy the Air Miles Token System using Hyperledger Fabric:
+
+### Prerequisites
+- Docker: To set up the Hyperledger Fabric network.
+- Node.js: For the chaincode (smart contracts) and client SDK.
+- Fabric Samples and Binaries: Ensure you have Hyperledger Fabric binaries installed.
+
 ### 📊 Network Diagram
 
 ```plaintext
@@ -39,3 +47,5 @@ The network consists of the following **four organizations**:
                                +------------------+
                                |    🧑‍💼 Customers   |
                                +------------------+
+
+
